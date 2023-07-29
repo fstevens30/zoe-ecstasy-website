@@ -1,1 +1,3 @@
-# zoe-ecstasy-website
+# Zoe Ecstasy Website
+
+## Creating a React site for Zoe Ecstasy
