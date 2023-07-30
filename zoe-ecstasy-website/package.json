@@ -1,5 +1,6 @@
 {
   "name": "zoe-ecstasy-website",
+  "homepage": "https://zoeecstasy.com/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
