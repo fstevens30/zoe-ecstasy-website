@@ -1,4 +1,5 @@
 import './App.css';
+import InstagramIcon from '@mui/icons-material/Instagram';
 
 function App() {
   return (
@@ -8,7 +9,7 @@ function App() {
         <h2>coming soon...</h2>
         <div>
           <a className="App-link" href="https://www.instagram.com/zoeecstasy/" target="_blank" rel="noreferrer">
-            <p>instagram</p>
+            <InstagramIcon /><p>instagram</p>
           </a>
 
           <a className="App-link" href="https://soundcloud.com/zoeecstasy" target="_blank" rel="noreferrer">
