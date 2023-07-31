@@ -1,17 +1,27 @@
-body {
+.header {
     background-color: #ffadc1;
-    height: 50vh;
+    height: auto;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
+    justify-content: space-between;
     align-items: center;
-    justify-content: center;
-    font-size: calc(10px + 2vmin);
-    color: #fcf3d9;
+    padding: 0 5rem;
 }
 
-#mainTitle {
-    font-size: 5rem;
-    font-family: 'Dancing Script', cursive;
+.headerTitle {
+    font-size: 5em;
+    font-family: 'Dai Banna SIL', sans-serif;
     color: #fcf3d9;
     text-shadow: 2px 2px #ff61a0;
+}
+
+.headerSocialLinks {
+    text-decoration: none;
+}
+
+.socialIcon
+{
+    font-size: 3em;
+    color: #fcf3d9;
+    padding: 0 1rem;
 }
