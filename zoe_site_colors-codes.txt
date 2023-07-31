@@ -1,0 +1,11 @@
+Your selected colors:
+
+    Text: #4d3627 (RGB: 77, 54, 39)
+    Background: #fcf3d9 (RGB: 252, 243, 217)
+    Primary: #ffadc1 (RGB: 255, 173, 193)
+    Secondary: #ffcde8 (RGB: 255, 205, 232)
+    Accent: #ff61a0 (RGB: 255, 97, 160)
+
+Realtime Colors link for selected colors: https://realtimecolors.com/?colors=4d3627-fcf3d9-ffadc1-ffcde8-ff61a0
+
+Thanks for using RealtimeColors.com!
