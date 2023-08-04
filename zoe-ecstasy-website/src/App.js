@@ -10,8 +10,10 @@ function App() {
     <div className="App">
       <Header />
       <Social />
-      <Listen />
-      <Songs />
+      <div className="content">
+        <Listen />
+        <Songs />
+      </div>
       <Footer />
     </div>
   );

@@ -4,5 +4,11 @@
         "artist": "zoe ecstasy",
         "link": "https://open.spotify.com/track/3AULWj8ousj9N9YU4shERR?si=de5a454a67ef4d35",
         "cover": "./assets/i-love-the-boy.webp"
+    },
+    {
+        "name": "bitter",
+        "artist": "zoe ecstasy",
+        "link": "https://soundcloud.com/zoeecstasy/bitter",
+        "cover": "./assets/i-love-the-boy.webp"
     }
 ]
