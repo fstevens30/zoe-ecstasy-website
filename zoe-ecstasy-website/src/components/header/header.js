@@ -3,8 +3,10 @@ import './header.css';
 function Header() {
     return (
         <div className="header">
-            <div className="headerTitle">
-                <h1>Zoe Ecstasy</h1>
+            <img src="./assets/heart.png" alt="" className="headerImg" />
+            <div className="headerTitles">
+                <span className="headerTitleMain">zoe ecstasy</span>
+                <span className="headerTitleSub">musician & songwriter</span>
             </div>
         </div>
     );
